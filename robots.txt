@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://soojitasan.github.io/sitemap.xml
